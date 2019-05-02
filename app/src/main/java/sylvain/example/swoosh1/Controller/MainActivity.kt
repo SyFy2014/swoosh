@@ -1,9 +1,9 @@
-package sylvain.example.swoosh1
+package sylvain.example.swoosh1.Controller
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*
+import sylvain.example.swoosh1.R
 
 class MainActivity : BaseActivity() {
 

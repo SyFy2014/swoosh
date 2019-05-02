@@ -1,4 +1,4 @@
-package sylvain.example.swoosh1
+package sylvain.example.swoosh1.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
